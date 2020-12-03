@@ -29,3 +29,8 @@ hs_err_pid*
 
 *.iml
 target/
+
+#eclipse generated files
+.classpath
+.project
+.settings/
